@@ -1,0 +1,36 @@
+{
+  "classes": [
+    "Assassin",
+    "Engineer",
+    "Hunter",
+    "Mage",
+    "Warrior"
+  ],
+  "forges": [
+    "Autumn Fields",
+    "Coldmist Village",
+    "Crossing",
+    "Forbidden Swamp",
+    "Fungal Forest",
+    "Goblin Gulch",
+    "Gun Town",
+    "Icehaven",
+    "Jade Gardens",
+    "Jaguar's Claws",
+    "Lost Forge",
+    "Lumberfall",
+    "Northport",
+    "Outpost",
+    "Sentinel Hold",
+    "Trinity Hills",
+    "Underpass",
+    "Valley"
+  ],
+  "zones": [
+    "Badlands",
+    "Everfrost",
+    "Greenscape",
+    "Sanctuary",
+    "Tropics"
+  ]
+}
